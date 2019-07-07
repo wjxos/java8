@@ -1,6 +1,6 @@
-## Java8 ĞÂÌØĞÔ
+## Java8 æ–°ç‰¹æ€§
 
-[1. Lambda ±í´ïÊ½µÄÊ¹ÓÃ](https://github.com/wangjianxiongwjx/java8/blob/master/docs/lambda.md)
+[1. Lambda è¡¨è¾¾å¼çš„ä½¿ç”¨](https://github.com/wangjianxiongwjx/java8/blob/master/docs/lambda.md)
    
 
 
